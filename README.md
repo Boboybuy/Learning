@@ -1,2 +1,2 @@
 # Learning
-Here what i learn
+Processing to be Data Analyst
